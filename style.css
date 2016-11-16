@@ -1,0 +1,106 @@
+body 
+{
+background-color:#DCDCDC;
+}
+
+
+header{
+background-image: url(777.jpg);
+height:150;
+}
+footer{
+background: #F5FFFA;
+	margin:auto;
+	width: 100%;
+	text-align:center;
+}
+    #menu, #menu li {
+
+        margin: 0;
+
+       padding: 0;
+
+    }
+
+    #menu {
+
+        text-align: center; /* пункты и текст горизонтально по центру */
+
+       background: #03658e;
+
+    }
+
+    #menu li{
+
+        display:inline-block;
+
+        text-align: center;
+
+    }
+
+    #menu a {
+
+        display: block;
+
+        padding: 5px 15px;
+
+        color: #fff;
+
+       font-size:150%;
+
+       text-decoration: none;
+	 
+
+    }
+
+    #menu a:hover {
+
+        background: #8AB8CC;
+
+    }
+
+h1{
+color:#00008B;
+font-size: 50;
+}
+p {
+font-family:Times New Roman;
+font-size: 20;
+text-indent: 20px; 
+	
+}
+.q{
+color:#fff;
+}
+
+
+.photo{
+text-align:center;
+}
+.lev li{
+list-style:none;
+font-size: 30 px;
+}
+.lev{
+padding:20px 0;
+display:block;
+width:170px;
+height:auto;
+padding-right:50px;
+float:left;
+font-size:150%;
+}
+.text{
+margin-left:220px;
+text-align:right;
+}
+h2 {
+padding:0 65px;
+color:#00008B;
+font-size:36px;
+}
+.search {
+float:center;
+margin-top:120px;
+margin-left:580px; 
+}
